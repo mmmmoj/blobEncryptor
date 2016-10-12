@@ -1,0 +1,26 @@
+{
+  "name": "blobencryptor",
+  "version": "1.0.0",
+  "description": "This library is used to enc/dec a blob file in fast way with javascript. It support most browsers and can work on Nodejs.",
+  "main": "blobEncryptor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmmmoj/blobEncryptor.git"
+  },
+  "keywords": [
+    "blob",
+    "encryption",
+    "decryption",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "M.Mohamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmmmoj/blobEncryptor/issues"
+  },
+  "homepage": "https://github.com/mmmmoj/blobEncryptor#readme"
+}
