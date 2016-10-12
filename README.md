@@ -1,5 +1,5 @@
 # blobEncryptor
-This is a simple library to help in enc/dec blob file
+This is a simple library to help in enc/dec blob file. Below how to use
 ## How to use:
 
 ### blobEncryptor.encryptFile(blob,pass,cb)
