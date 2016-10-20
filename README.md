@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/mmmmoj/blobEncryptor.svg?branch=master)](https://travis-ci.org/mmmmoj/blobEncryptor)
 # blobEncryptor
 This is a simple library to help in enc/dec blob file. Below how to use
 ## How to use:
