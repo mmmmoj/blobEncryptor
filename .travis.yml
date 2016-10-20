@@ -1,4 +1,4 @@
 language: node_js
 node_js:
-- 5.4.1
-script: npm install && npm run minify
+- 4.4.7
+script: npm install && npm run minify && npm run test
