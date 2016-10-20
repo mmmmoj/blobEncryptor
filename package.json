@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "generate-docs": "node_modules/.bin/jsdoc blobEncryptor.js -t node_modules/docdash README.md",
-    "minify": "uglifyjs blobEncryptor.js -c sequences=true,dead_code=true,conditionals=true,booleans=true,unused=true,if_return=true,join_vars=true,drop_console=true -m sort --screw-ie8 > blobEncryptor.min.js",
+    "minify": "uglifyjs blobEncryptor.js -c sequences=true,dead_code=true,conditionals=true,booleans=true,unused=true,if_return=true,join_vars=true,drop_console=true -m sort --screw-ie8 > blobEncryptor.min.js"
   },
   "repository": {
     "type": "git",
